@@ -377,28 +377,28 @@
         <mxCell id="yIXkEUpxUdVCeem0whRT-73" value="放纸" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="128.25" y="3248" width="90.5" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZavyjI01KVgguWT3xPBL-1" target="ZavyjI01KVgguWT3xPBL-2" edge="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;" parent="1" source="ZavyjI01KVgguWT3xPBL-1" target="ZavyjI01KVgguWT3xPBL-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="72" y="3571" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZavyjI01KVgguWT3xPBL-2" target="ZavyjI01KVgguWT3xPBL-3" edge="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;" parent="1" source="ZavyjI01KVgguWT3xPBL-2" target="ZavyjI01KVgguWT3xPBL-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-2" value="输入设定温度t" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-2" value="输入设定温度t" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="72" y="3660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZavyjI01KVgguWT3xPBL-3" target="ZavyjI01KVgguWT3xPBL-4" edge="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;" parent="1" source="ZavyjI01KVgguWT3xPBL-3" target="ZavyjI01KVgguWT3xPBL-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-3" value="通过传感器获取当前室温f" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-3" value="通过传感器获取当前室温f" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="50" y="3746" width="164" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZavyjI01KVgguWT3xPBL-4" target="ZavyjI01KVgguWT3xPBL-5" edge="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;" parent="1" source="ZavyjI01KVgguWT3xPBL-4" target="ZavyjI01KVgguWT3xPBL-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZavyjI01KVgguWT3xPBL-4" target="ZavyjI01KVgguWT3xPBL-7" edge="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;" parent="1" source="ZavyjI01KVgguWT3xPBL-4" target="ZavyjI01KVgguWT3xPBL-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="3886" />
@@ -407,16 +407,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-4" value="f &amp;gt; t ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-4" value="f &amp;gt; t ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="65" y="3846" width="134" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZavyjI01KVgguWT3xPBL-5" target="ZavyjI01KVgguWT3xPBL-6" edge="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;" parent="1" source="ZavyjI01KVgguWT3xPBL-5" target="ZavyjI01KVgguWT3xPBL-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-5" value="制冷机构启动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-5" value="制冷机构启动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="72" y="3957" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZavyjI01KVgguWT3xPBL-6" edge="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;" parent="1" source="ZavyjI01KVgguWT3xPBL-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="3823" as="targetPoint" />
             <Array as="points">
@@ -426,22 +426,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-6" value="通过传感器获取当前室温f" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-6" value="通过传感器获取当前室温f" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="46" y="4050" width="172" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZavyjI01KVgguWT3xPBL-7" target="ZavyjI01KVgguWT3xPBL-8" edge="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;" parent="1" source="ZavyjI01KVgguWT3xPBL-7" target="ZavyjI01KVgguWT3xPBL-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-7" value="制冷机构停止" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-7" value="制冷机构停止" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="72" y="4195" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-8" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-8" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="72" y="4297" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-19" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-19" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="72" y="3922" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-20" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-20" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="183" y="3850" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZavyjI01KVgguWT3xPBL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZavyjI01KVgguWT3xPBL-30" target="ZavyjI01KVgguWT3xPBL-32" edge="1">
