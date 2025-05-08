@@ -389,6 +389,9 @@
         <mxCell id="ZavyjI01KVgguWT3xPBL-4" value="f &amp;gt; t ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="427" y="2681" width="134" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ZavyjI01KVgguWT3xPBL-5" value="制冷机构启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="2811" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
