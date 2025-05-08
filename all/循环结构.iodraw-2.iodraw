@@ -386,13 +386,13 @@
         <mxCell id="ZavyjI01KVgguWT3xPBL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZavyjI01KVgguWT3xPBL-2" target="ZavyjI01KVgguWT3xPBL-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-2" value="输入设定温度t" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="72" y="3660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZavyjI01KVgguWT3xPBL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZavyjI01KVgguWT3xPBL-3" target="ZavyjI01KVgguWT3xPBL-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-3" value="通过传感器获取当前室温f" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="72" y="3746" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZavyjI01KVgguWT3xPBL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZavyjI01KVgguWT3xPBL-4" target="ZavyjI01KVgguWT3xPBL-5">
@@ -407,7 +407,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-4" value="f &amp;gt; t ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-4" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="65" y="3846" width="134" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZavyjI01KVgguWT3xPBL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZavyjI01KVgguWT3xPBL-5" target="ZavyjI01KVgguWT3xPBL-6">
@@ -446,6 +446,12 @@
         </mxCell>
         <mxCell id="ZavyjI01KVgguWT3xPBL-21" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;开始&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="453.47058823529414" y="3659.5294117647063" width="52" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ZavyjI01KVgguWT3xPBL-22" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;输入设定温度t&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="433.47058823529414" y="3785.411764705883" width="103" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ZavyjI01KVgguWT3xPBL-23" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;通过传感器获取当前室温f&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482.8823529411766" y="3976" width="163" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
