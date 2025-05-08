@@ -441,6 +441,9 @@
         <mxCell id="ZavyjI01KVgguWT3xPBL-19" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="434" y="2757" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZavyjI01KVgguWT3xPBL-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="2685" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
