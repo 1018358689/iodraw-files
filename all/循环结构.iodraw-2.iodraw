@@ -392,6 +392,12 @@
         <mxCell id="ZavyjI01KVgguWT3xPBL-5" value="制冷机构启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="2811" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZavyjI01KVgguWT3xPBL-6" value="通过传感器获取当前室温f" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="2910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZavyjI01KVgguWT3xPBL-7" value="制冷机构启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="3030" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
