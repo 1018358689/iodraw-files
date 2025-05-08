@@ -383,11 +383,20 @@
         <mxCell id="ZavyjI01KVgguWT3xPBL-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="2384" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZavyjI01KVgguWT3xPBL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZavyjI01KVgguWT3xPBL-2" target="ZavyjI01KVgguWT3xPBL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZavyjI01KVgguWT3xPBL-2" value="输入设定温度t" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="2495" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZavyjI01KVgguWT3xPBL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZavyjI01KVgguWT3xPBL-3" target="ZavyjI01KVgguWT3xPBL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZavyjI01KVgguWT3xPBL-3" value="通过传感器获取当前室温f" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="2588" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZavyjI01KVgguWT3xPBL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZavyjI01KVgguWT3xPBL-4" target="ZavyjI01KVgguWT3xPBL-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZavyjI01KVgguWT3xPBL-4" value="f &amp;gt; t ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="427" y="2681" width="134" height="80" as="geometry" />
