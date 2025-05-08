@@ -377,6 +377,9 @@
         <mxCell id="yIXkEUpxUdVCeem0whRT-73" value="放纸" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="128.25" y="3248" width="90.5" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="ZavyjI01KVgguWT3xPBL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZavyjI01KVgguWT3xPBL-1" target="ZavyjI01KVgguWT3xPBL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZavyjI01KVgguWT3xPBL-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="2384" width="120" height="60" as="geometry" />
         </mxCell>
@@ -397,6 +400,9 @@
         </mxCell>
         <mxCell id="ZavyjI01KVgguWT3xPBL-7" value="制冷机构停止" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="3030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZavyjI01KVgguWT3xPBL-8" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="3153" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
