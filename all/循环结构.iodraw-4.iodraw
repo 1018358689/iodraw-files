@@ -511,17 +511,20 @@
         <mxCell id="ZavyjI01KVgguWT3xPBL-46" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="614" y="3856" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gxt-ox6X9shhIuG0EtUt-1" value="顺序结构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Gxt-ox6X9shhIuG0EtUt-1" value="顺序结构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="72" y="4763" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gxt-ox6X9shhIuG0EtUt-2" value="分支结构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Gxt-ox6X9shhIuG0EtUt-2" value="分支结构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="237" y="4763" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gxt-ox6X9shhIuG0EtUt-3" value="控制系统中的计算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Gxt-ox6X9shhIuG0EtUt-3" value="控制系统中的计算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="131" y="4907" width="164" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gxt-ox6X9shhIuG0EtUt-4" value="循环结构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Gxt-ox6X9shhIuG0EtUt-4" value="循环结构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="452" y="4841" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gxt-ox6X9shhIuG0EtUt-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="4957" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
