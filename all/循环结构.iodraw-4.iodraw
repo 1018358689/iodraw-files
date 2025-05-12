@@ -511,6 +511,9 @@
         <mxCell id="ZavyjI01KVgguWT3xPBL-46" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="614" y="3856" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Gxt-ox6X9shhIuG0EtUt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="4763" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
