@@ -518,7 +518,10 @@
           <mxGeometry x="237" y="4763" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gxt-ox6X9shhIuG0EtUt-3" value="控制系统中的计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="72" y="4961" width="164" height="60" as="geometry" />
+          <mxGeometry x="131" y="4907" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gxt-ox6X9shhIuG0EtUt-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="4841" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
