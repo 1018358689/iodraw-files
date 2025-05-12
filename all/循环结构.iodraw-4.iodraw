@@ -514,8 +514,11 @@
         <mxCell id="Gxt-ox6X9shhIuG0EtUt-1" value="顺序结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="72" y="4763" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gxt-ox6X9shhIuG0EtUt-2" value="顺序结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gxt-ox6X9shhIuG0EtUt-2" value="分支结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="237" y="4763" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gxt-ox6X9shhIuG0EtUt-3" value="顺序结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="4961" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
