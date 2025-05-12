@@ -529,6 +529,9 @@
         <mxCell id="Gxt-ox6X9shhIuG0EtUt-4" value="循环结构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="482" y="4841" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Gxt-ox6X9shhIuG0EtUt-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="399" y="4806" width="20" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
