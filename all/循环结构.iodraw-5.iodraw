@@ -598,6 +598,73 @@
         <mxCell id="YlG6yeEmewOPqKcF_rai-21" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="238" y="6274" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" edge="1" parent="1" source="YlG6yeEmewOPqKcF_rai-23" target="YlG6yeEmewOPqKcF_rai-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-23" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="287.97" y="3573" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" edge="1" parent="1" source="YlG6yeEmewOPqKcF_rai-25" target="YlG6yeEmewOPqKcF_rai-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-25" value="输入设定温度t" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="287.97" y="3662" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" edge="1" parent="1" source="YlG6yeEmewOPqKcF_rai-27" target="YlG6yeEmewOPqKcF_rai-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-27" value="通过传感器获取当前室温f" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="265.97" y="3748" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" edge="1" parent="1" source="YlG6yeEmewOPqKcF_rai-30" target="YlG6yeEmewOPqKcF_rai-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" edge="1" parent="1" source="YlG6yeEmewOPqKcF_rai-30" target="YlG6yeEmewOPqKcF_rai-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455.97" y="3888" />
+              <mxPoint x="455.97" y="4161" />
+              <mxPoint x="347.97" y="4161" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-30" value="f &amp;gt; t ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="280.97" y="3848" width="134" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" edge="1" parent="1" source="YlG6yeEmewOPqKcF_rai-32" target="YlG6yeEmewOPqKcF_rai-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-32" value="制冷机构启动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="287.97" y="3959" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" edge="1" parent="1" source="YlG6yeEmewOPqKcF_rai-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345.97" y="3825" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="347.97" y="4145" />
+              <mxPoint x="236.97" y="4145" />
+              <mxPoint x="236.97" y="3825" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-34" value="通过传感器获取当前室温f" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="261.97" y="4052" width="172" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" edge="1" parent="1" source="YlG6yeEmewOPqKcF_rai-36" target="YlG6yeEmewOPqKcF_rai-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-36" value="制冷机构停止" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="287.97" y="4197" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-37" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="287.97" y="4299" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-38" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="287.97" y="3924" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-39" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="398.97" y="3852" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
