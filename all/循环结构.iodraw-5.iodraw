@@ -413,7 +413,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-4" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-4" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="136" y="3846" width="134" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZavyjI01KVgguWT3xPBL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" parent="1" source="ZavyjI01KVgguWT3xPBL-5" target="ZavyjI01KVgguWT3xPBL-6" edge="1">
