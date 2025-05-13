@@ -559,15 +559,6 @@
         <mxCell id="YlG6yeEmewOPqKcF_rai-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" edge="1" parent="1" source="YlG6yeEmewOPqKcF_rai-9" target="YlG6yeEmewOPqKcF_rai-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YlG6yeEmewOPqKcF_rai-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" edge="1" parent="1" source="YlG6yeEmewOPqKcF_rai-9" target="YlG6yeEmewOPqKcF_rai-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="275" y="6305" />
-              <mxPoint x="275" y="6578" />
-              <mxPoint x="167" y="6578" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YlG6yeEmewOPqKcF_rai-9" value="f &amp;gt; t ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="100" y="6265" width="134" height="80" as="geometry" />
         </mxCell>
@@ -577,15 +568,8 @@
         <mxCell id="YlG6yeEmewOPqKcF_rai-11" value="制冷机构启动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="107" y="6376" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YlG6yeEmewOPqKcF_rai-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" edge="1" parent="1" source="YlG6yeEmewOPqKcF_rai-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="165" y="6242" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="167" y="6562" />
-              <mxPoint x="56" y="6562" />
-              <mxPoint x="56" y="6242" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="YlG6yeEmewOPqKcF_rai-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YlG6yeEmewOPqKcF_rai-13" target="YlG6yeEmewOPqKcF_rai-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YlG6yeEmewOPqKcF_rai-13" value="通过传感器获取当前室温f" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="81" y="6469" width="172" height="60" as="geometry" />
