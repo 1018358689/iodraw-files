@@ -432,16 +432,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-6" value="通过传感器获取当前室温f" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="117" y="4050" width="172" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZavyjI01KVgguWT3xPBL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" parent="1" source="ZavyjI01KVgguWT3xPBL-7" target="ZavyjI01KVgguWT3xPBL-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-7" value="制冷机构停止" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="143" y="4195" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZavyjI01KVgguWT3xPBL-8" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="ZavyjI01KVgguWT3xPBL-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="143" y="4297" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZavyjI01KVgguWT3xPBL-19" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=13;" parent="1" vertex="1">
